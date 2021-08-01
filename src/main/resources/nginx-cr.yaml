@@ -1,0 +1,9 @@
+apiVersion: udomomo.com/v1alpha1
+kind: Nginx
+metadata:
+  name: example
+  namespace: develop
+spec:
+  replicas: 3
+  labels:
+    app: nginx

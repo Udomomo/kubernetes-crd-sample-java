@@ -1,4 +1,4 @@
-package com.udomomo.kubernetescrdsample.api.model.v1;
+package com.udomomo.kubernetescrdsample.api.model.v1beta1;
 
 import lombok.Data;
 
